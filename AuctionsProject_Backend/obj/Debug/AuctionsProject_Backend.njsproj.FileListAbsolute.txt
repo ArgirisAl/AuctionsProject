@@ -1,0 +1,3 @@
+C:\Users\argir\source\repos\AuctionsProject_v1\AuctionsProject_Backend\obj\Debug\AuctionsProject_Backend.njsproj.AssemblyReference.cache
+C:\Users\argir\source\repos\AuctionsProject_v1\AuctionsProject_Backend\obj\Debug\AuctionsProject_Backend.njsproj.CoreCompileInputs.cache
+C:\Users\argir\source\repos\AuctionsProject_v1\AuctionsProject_Backend\bin\Microsoft.NodejsTools.WebRole.dll
