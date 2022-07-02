@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "AuctionsProject_Backend", "AuctionsProject_Backend\AuctionsProject_Backend.njsproj", "{DB02ACF1-FED6-4CF4-800E-5C7617489EF1}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "AuctionsProject_Frontend", "AuctionsProject_Frontend\AuctionsProject_Frontend.esproj", "{803EA03C-3EE2-4DEF-BBE1-F7ED0B1DABC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB02ACF1-FED6-4CF4-800E-5C7617489EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB02ACF1-FED6-4CF4-800E-5C7617489EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB02ACF1-FED6-4CF4-800E-5C7617489EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB02ACF1-FED6-4CF4-800E-5C7617489EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{803EA03C-3EE2-4DEF-BBE1-F7ED0B1DABC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803EA03C-3EE2-4DEF-BBE1-F7ED0B1DABC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803EA03C-3EE2-4DEF-BBE1-F7ED0B1DABC5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{803EA03C-3EE2-4DEF-BBE1-F7ED0B1DABC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803EA03C-3EE2-4DEF-BBE1-F7ED0B1DABC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{803EA03C-3EE2-4DEF-BBE1-F7ED0B1DABC5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADC8F1B6-1FAE-47AE-98AA-E39E0E03C93D}
+	EndGlobalSection
+EndGlobal
